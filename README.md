@@ -1,4 +1,4 @@
-# Compounder
+# The Compounder
 
 This is a personal project I am working on my spare time.
 The purpose of this project is to help me keep track of my long-term investments.
